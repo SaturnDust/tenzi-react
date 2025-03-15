@@ -1,4 +1,4 @@
-# Tenzi React FreeCodeCamp Challange
+# Tenzi React FreeCodeCampe Challenge
 
 game tenzi dibangunn menggunakan react, samakan dadunya untuk menang
 
